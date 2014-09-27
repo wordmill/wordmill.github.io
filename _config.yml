@@ -15,7 +15,7 @@ author :
   email : jerryhuffman@live.com
   github : wordmill
   twitter : jerryhuffman
-  feedburner : feedname
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -128,3 +128,10 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+markdown:    kramdown
+highlighter: pygments
+lsi:         false
+excerpt_separator: "\n\n"
+
+exclude: [CNAME, CNAME.bak, index.md.bak, README.md.bak, about.md.bak]
+

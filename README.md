@@ -3,9 +3,9 @@ wordmill.github.io
 
 This is the main repo for WordMill and phpWords project repos. 
 
-This repo is making use of the jekyll-bootstrap project. 
+This repo is making use of the jekyllbootstrap project. 
 
-The original readme is included below.
+The original README.md file is included below.
 
 
 # Jekyll-Bootstrap
