@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : WordMill Information Site
-tagline: WordMill and phpWord repo informaion site.
+tagline: WordMill and phpWord repo information site.
 author :
   name : Jerry Huffman
   email : jerryhuffman@live.com
