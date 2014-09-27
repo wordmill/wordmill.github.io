@@ -10,4 +10,6 @@ Thumbs.db
 .rvmrc
 
 _config.yml.bak
+.gitignore.bak
+CNAME.bak
 
